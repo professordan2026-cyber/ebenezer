@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI';
+  background: #f5f7fb;
+}
+
+header {
+  background: linear-gradient(90deg, #004aad, #00c6ff);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 10px;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
